@@ -1,0 +1,681 @@
+#EXTM3U cache=500 playlist=1 deinterlace=1 url-tvg="http://iptvportal.gagratel.ru/jtv.zip" m3uautoload=1
+#EXTINF:-1 tvg-logo="Первый канал" tvg-name="4710",Первый
+http://st1.astra-uk.ru/udp/235.74.101.1:2015
+#EXTINF:-1 tvg-logo="Россия 1" tvg-name="5150",Россия 1
+http://st1.astra-uk.ru/udp/235.74.101.2:2015
+#EXTINF:-1 tvg-shift="2" tvg-logo="Матч ТВ (Россия 2)" tvg-name="5170",Матч!
+http://st1.astra-uk.ru/udp/235.74.101.3:2015
+#EXTINF:-1 tvg-logo="НТВ" tvg-name="4250",НТВ
+http://st1.astra-uk.ru/udp/235.74.101.4:2015
+#EXTINF:-1 tvg-logo="5 Канал Санкт-Петербург" tvg-name="4970",5 Канал
+http://st1.astra-uk.ru/udp/235.74.101.5:2015
+#EXTINF:-1 tvg-logo="Россия Культура" tvg-name="5210",Россия К
+http://st1.astra-uk.ru/udp/235.74.101.6:2015
+#EXTINF:-1 tvg-logo="Россия 24" tvg-name="5190",Россия 24
+http://st1.astra-uk.ru/udp/235.74.101.7:2015
+#EXTINF:-1 tvg-logo="ОТР" tvg-name="4500",ОТР
+http://st1.astra-uk.ru/udp/235.74.101.9:2015
+#EXTINF:-1 tvg-logo="ТВЦ" tvg-name="5950",ТВЦ
+http://st1.astra-uk.ru/udp/235.74.101.10:2015
+#EXTINF:-1 tvg-logo="РЕН-ТВ" tvg-name="5090",РЕН ТВ
+http://st1.astra-uk.ru/udp/235.74.101.11:2015
+#EXTINF:-1 tvg-logo="Спас" tvg-name="5510",СПАС
+http://st1.astra-uk.ru/udp/235.74.101.12:2015
+#EXTINF:-1 tvg-logo="СТС" tvg-name="5710",СТС
+http://st1.astra-uk.ru/udp/235.74.101.13:2015
+#EXTINF:-1 tvg-logo="Домашний" tvg-name="1920",Домашний
+http://st1.astra-uk.ru/udp/235.74.101.14:2015
+#EXTINF:-1 tvg-logo="ТВ3" tvg-name="5830",ТВ3
+http://st1.astra-uk.ru/udp/235.74.101.15:2015
+#EXTINF:-1 tvg-logo="Звезда" tvg-name="4960",Пятница
+http://st1.astra-uk.ru/udp/235.74.101.16:2015
+#EXTINF:-1 tvg-logo="Звезда" tvg-name="2450",Звезда
+http://st1.astra-uk.ru/udp/235.74.101.17:2015
+#EXTINF:-1 tvg-logo="ТНТ" tvg-name="6130",ТНТ
+http://st1.astra-uk.ru/udp/235.74.101.19:2015
+#EXTINF:-1 tvg-shift="2" tvg-logo="МузТВ" tvg-name="3770",Муз ТВ
+http://st1.astra-uk.ru/udp/235.74.101.20:2015
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://update.vermax.com/logo56/4705.png" tvg-name="4705",Первый HD
+http://st1.astra-uk.ru:81/5c5817bdb4c149e2a52473a954cdfbfe/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://update.vermax.com/logo56/5150.png" tvg-name="5150",Россия 1
+http://st1.astra-uk.ru:81/c88c9bbb2f164f52735e4e5fe03d930b/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://update.vermax.com/logo56/5145.png" tvg-name="5145",Россия 1 HD
+http://st1.astra-uk.ru:81/6f4b6a54268e3d94ecbc5369ae75dca3/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://update.vermax.com/logo56/5190.png" tvg-name="5190",Россия 24
+http://st1.astra-uk.ru:81/0c8de1abe7178fea93c57dbf83dcd09a/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://update.vermax.com/logo56/4250.png" tvg-name="4250",НТВ
+http://st1.astra-uk.ru:81/3005f0a21b26c91919318551ddba2d11/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://update.vermax.com/logo56/4270.png" tvg-name="4270",НТВ HD
+http://st1.astra-uk.ru:81/f384a62e0e17e2aeb0bc5939e7fc7125/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://update.vermax.com/logo56/5950.png" tvg-name="5950",ТВЦ
+http://st1.astra-uk.ru:81/8db68a01adbc79a659f71ad57e5238f3/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://update.vermax.com/logo56/6130.png" tvg-name="6130",ТНТ
+http://st1.astra-uk.ru:81/d6cf0b358a92e01a7eab2c7685eeae90/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://update.vermax.com/logo56/6147.png" tvg-name="6147",ТНТ HD
+http://st1.astra-uk.ru:81/fdbf4b80c4f7e743b9c28999e3a9da8d/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://update.vermax.com/logo56/5710.png" tvg-name="5710",СТС
+http://st1.astra-uk.ru:81/6fd02120a26d5964be4724f38a2cb202/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://update.vermax.com/logo56/4970.png" tvg-name="4970",Пятый Канал
+http://st1.astra-uk.ru:81/22b352f0de775f1fb60fe21db0f8192b/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://update.vermax.com/logo56/5090.png" tvg-name="5090",РЕН ТВ
+http://st1.astra-uk.ru:81/dd9d0339d55779d7b242e6ac323427db/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://update.vermax.com/logo56/4500.png" tvg-name="4500",ОТР
+http://st1.astra-uk.ru:81/acf5d90be0c35c1d9cfc715b970d2b60/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://update.vermax.com/logo56/1860.png" tvg-name="1980",Че
+http://st1.astra-uk.ru:81/5d4cf4a71f3e2be2abfd1ae982c64b2c/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://update.vermax.com/logo56/2620.png" tvg-name="2620",Известия HD
+http://st1.astra-uk.ru:81/236de2d6cf3827f78362beb35a229888/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://update.vermax.com/logo56/7200.png" tvg-name="7200",Ю ТВ
+http://st1.astra-uk.ru:81/fbe104363ed642669097a956bdb6e63f/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://update.vermax.com/logo56/16911.png" tvg-name="16911",RT (английский)
+http://st1.astra-uk.ru:81/7d86a22522246b806ead33c38bbb3e6a/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://update.vermax.com/logo56/3645.png" tvg-name="3645",МИР 24
+http://st1.astra-uk.ru:81/ed681ddb2e0578469cdd44783240eb90/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://update.vermax.com/logo56/1490.png" tvg-name="1490",Время
+http://st1.astra-uk.ru:81/1c56619dfb1f30407273d31bce1ec553/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://update.vermax.com/logo56/10430.png" tvg-name="10430",BBC World News
+http://st1.astra-uk.ru:81/39cc43790604383a613b4be402aa26b7/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://update.vermax.com/logo56/10930.png" tvg-name="10930",CNN International
+http://st1.astra-uk.ru:81/2b68c96cc25d297a3e914db2fd3631d4/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://update.vermax.com/logo56/11710.png" tvg-name="11710",Euronews
+http://st1.astra-uk.ru:81/f028cf5f6b4b3a7d9f8f5dcc45cb389c/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://update.vermax.com/logo56/5190.png" tvg-name="5190",Россия 24
+http://st1.astra-uk.ru:81/0c8de1abe7178fea93c57dbf83dcd09a/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://update.vermax.com/logo56/16911.png" tvg-name="16911",RT (английский)
+http://st1.astra-uk.ru:81/7d86a22522246b806ead33c38bbb3e6a/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://update.vermax.com/logo56/3645.png" tvg-name="3645",МИР 24
+http://st1.astra-uk.ru:81/ed681ddb2e0578469cdd44783240eb90/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://update.vermax.com/logo56/1490.png" tvg-name="1490",Время
+http://st1.astra-uk.ru:81/1c56619dfb1f30407273d31bce1ec553/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://update.vermax.com/logo56/10430.png" tvg-name="10430",BBC World News
+http://st1.astra-uk.ru:81/39cc43790604383a613b4be402aa26b7/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://update.vermax.com/logo56/10930.png" tvg-name="10930",CNN International
+http://st1.astra-uk.ru:81/2b68c96cc25d297a3e914db2fd3631d4/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://update.vermax.com/logo56/11710.png" tvg-name="11710",Euronews
+http://st1.astra-uk.ru:81/f028cf5f6b4b3a7d9f8f5dcc45cb389c/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://update.vermax.com/logo56/2450.png" tvg-name="2450",Звезда
+http://st1.astra-uk.ru:81/283f3b4eab827a54667b09975b90520e/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://update.vermax.com/logo56/3650.png" tvg-name="3650",МИР
+http://st1.astra-uk.ru:81/c14dc335ba2a42f527d0909c5551d672/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://update.vermax.com/logo56/4730.png" tvg-name="4730",Первый МЕТЕО
+http://st1.astra-uk.ru:81/0b6dfc1e57b717f99dee3b9893581b92/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://update.vermax.com/logo56/4867.png" tvg-name="4867",Продвижение
+http://st1.astra-uk.ru:81/857878a4c2d6d328a4ffb87ade9313e1/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://update.vermax.com/logo56/5070.png" tvg-name="5070",РБК-ТВ
+http://st1.astra-uk.ru:81/369fdb59dea596b813812252cd5d88b2/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://update.vermax.com/logo56/None.png" tvg-name="None",CGTN
+http://st1.astra-uk.ru:81/8d48143a8cd56731f9d15c33d862ad96/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://update.vermax.com/logo56/None.png" tvg-name="None",Абаза
+http://st1.astra-uk.ru:81/3814f03620e5c4a5cd211c41d21cdaae/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://update.vermax.com/logo56/None.png" tvg-name="None",АГТРК
+http://st1.astra-uk.ru:81/9b69510e3406f35aca0778bc9e1ba37e/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://update.vermax.com/logo56/1087.png" tvg-name="1087",Астрахань 24
+http://st1.astra-uk.ru:81/5aa842651fad1f455e77133ebfe10836/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://update.vermax.com/logo56/1210.png" tvg-name="1210",БелРос
+http://st1.astra-uk.ru:81/2d48ff15fa5d8a578719d43ccf87784d/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://update.vermax.com/logo56/1330.png" tvg-name="1330",БСТ
+http://st1.astra-uk.ru:81/357a54cde6a7bc3814e38bf625633e73/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://update.vermax.com/logo56/1670.png" tvg-name="1670",Грозный
+http://st1.astra-uk.ru:81/1f98b7d7b15a8de90126aef24b2917ea/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://update.vermax.com/logo56/3120.png" tvg-name="3120",Кубань 24
+http://st1.astra-uk.ru:81/791f49ff12a8359b0d7ac45964882d2e/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://update.vermax.com/logo56/3680.png" tvg-name="3680",Москва 24
+http://st1.astra-uk.ru:81/84c99aed0569d18cfffc41a359ffacb2/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://update.vermax.com/logo56/5405.png" tvg-name="5405",Санкт-Петербург
+http://st1.astra-uk.ru:81/5687293d0e72306b9bf861a959e901b2/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://update.vermax.com/logo56/1085.png" tvg-name="1085",Архыз 24
+http://st1.astra-uk.ru:81/d3d2f6fce3626a3233dce06490a45341/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://update.vermax.com/logo56/1080.png" tvg-name="1080",АРМЕНИЯ ТВ
+http://st1.astra-uk.ru:81/1cc50529f6fa77e5b3e923cc0f518b67/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://update.vermax.com/logo56/2830.png" tvg-name="2830",Карусель
+http://st1.astra-uk.ru:81/e8cb2d95b60b78993bf6711eca68b341/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://update.vermax.com/logo56/3735.png" tvg-name="3735",Мульт
+http://st1.astra-uk.ru:81/83167c9c5afbe17472b6a4ba64546390/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://update.vermax.com/logo56/6100.png" tvg-name="6100",Тлум HD
+http://st1.astra-uk.ru:81/e3d6c7be23fb8e19a4a3fec350648f87/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://update.vermax.com/logo56/5709.png" tvg-name="5709",СТС kids
+http://st1.astra-uk.ru:81/3473d78f85b5414738315e53c1337aed/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://update.vermax.com/logo56/5709.png" tvg-name="5709",СТС kids HD
+http://st1.astra-uk.ru:81/cad39494c69428c433fa7e51eca2be71/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://update.vermax.com/logo56/None.png" tvg-name="None",Уникум
+http://st1.astra-uk.ru:81/ed99bb2beae713313df317bf3c77ebab/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://update.vermax.com/logo56/None.png" tvg-name="None",Рыжий
+http://st1.astra-uk.ru:81/c6da94a76ecc07d1fc659f354f4d9b70/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://update.vermax.com/logo56/17650.png" tvg-name="17650",TiJi
+http://st1.astra-uk.ru:81/3a53c3763906b3643e21347cb6a3b638/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://update.vermax.com/logo56/12450.png" tvg-name="12450",Gulli
+http://st1.astra-uk.ru:81/b1a94b76e7804536dbc0c95f87feecc0/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://update.vermax.com/logo56/11330.png" tvg-name="11330",Канал Disney
+http://st1.astra-uk.ru:81/48b075723c441f228e5fd386309af8c9/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://update.vermax.com/logo56/13270.png" tvg-name="13270",JimJam
+http://st1.astra-uk.ru:81/06d3a33989a7d42363a3374b0653c356/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://update.vermax.com/logo56/15340.png" tvg-name="15340",Nick Jr.
+http://st1.astra-uk.ru:81/dfd77f0790968b73e1fdccdf64a2804e/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://update.vermax.com/logo56/15330.png" tvg-name="15330",Nickelodeon
+http://st1.astra-uk.ru:81/6dd0f58d393bc7f846292e8eb05867cc/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://update.vermax.com/logo56/15335.png" tvg-name="15335",Nickelodeon HD
+http://st1.astra-uk.ru:81/3dd6a5a5d4ffb99f38933c41ad237a1b/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://update.vermax.com/logo56/10122.png" tvg-name="10122",Ani
+http://st1.astra-uk.ru:81/466e978e6b916d591720ac442424cb2d/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://update.vermax.com/logo56/10500.png" tvg-name="10500",Boomerang
+http://st1.astra-uk.ru:81/03f22482968b9b95781f8f9ee8055213/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://update.vermax.com/logo56/10830.png" tvg-name="10830",Cartoon Network
+http://st1.astra-uk.ru:81/2e91f77c40642e320e70bf2951615002/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://update.vermax.com/logo56/4405.png" tvg-name="4405",O!
+http://st1.astra-uk.ru:81/e73af36376314c7c0022cb1d204f76b3/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://update.vermax.com/logo56/1405.png" tvg-name="1405",В гостях у сказки
+http://st1.astra-uk.ru:81/d4f755858b7fa60b7c59bb197f085e58/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://update.vermax.com/logo56/1820.png" tvg-name="1820",Детский
+http://st1.astra-uk.ru:81/de6b18ca096cec0b6faac5466bb29cb0/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://update.vermax.com/logo56/1830.png" tvg-name="1830",Детский мир
+http://st1.astra-uk.ru:81/ab11575789756e002f885e0994991ce9/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://update.vermax.com/logo56/3730.png" tvg-name="3730",Мультимания
+http://st1.astra-uk.ru:81/d3fdbf52940d095bec5622b47d204e9a/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://update.vermax.com/logo56/3737.png" tvg-name="3737",Мульт и Музыка
+http://st1.astra-uk.ru:81/721d8da68749d5a361038cf2f2a2204a/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://update.vermax.com/logo56/280.png" tvg-name="280",2x2
+http://st1.astra-uk.ru:81/172433d1e3ad2cb95dde65f22ccb82f6/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://update.vermax.com/logo56/5030.png" tvg-name="5030",Радость моя
+http://st1.astra-uk.ru:81/92b55e1a81eb9e0f50e6ea83b4026ea4/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://update.vermax.com/logo56/3450.png" tvg-name="3450",Малыш
+http://st1.astra-uk.ru:81/f115101d9a894704f0082cea5d5a43ce/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/5210.png" tvg-name="5210",Россия К
+http://st1.astra-uk.ru:81/c087193b4be73bf02e4aba2022f6c960/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/12830.png" tvg-name="12830",HD Life
+http://st1.astra-uk.ru:81/261cba6880054c1de5f692ac12c91dbc/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/18470.png" tvg-name="18470",Viasat Explore
+http://st1.astra-uk.ru:81/c7bf726ae2505bbf3a6e1561a19182d0/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/2450.png" tvg-name="2450",Звезда
+http://st1.astra-uk.ru:81/283f3b4eab827a54667b09975b90520e/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/11270.png" tvg-name="11270",Discovery HD
+http://st1.astra-uk.ru:81/46bd97b8e0ee75a330ad9b5f910be471/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/3460.png" tvg-name="3460",Мама
+http://st1.astra-uk.ru:81/9c8aa2fd67204ad39ffbe43c4b42c840/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/10110.png" tvg-name="10110",Animal Planet
+http://st1.astra-uk.ru:81/54c24d702df21679d67ab196e3289973/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/15210.png" tvg-name="15210",National Geographic
+http://st1.astra-uk.ru:81/5dfba917a2b45b352b2186211241b8ee/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/15230.png" tvg-name="15230",National Geographic HD
+http://st1.astra-uk.ru:81/706bc717b31922713648f92bf2151d40/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/15250.png" tvg-name="15250",Nat Geo Wild
+http://st1.astra-uk.ru:81/8b44d62da0ea51a3b8378e2dec725db8/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/15270.png" tvg-name="15270",Nat Geo Wild HD
+http://st1.astra-uk.ru:81/f4efe20a7160869747c778a50872c9fe/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/11270.png" tvg-name="11270",Discovery
+http://st1.astra-uk.ru:81/403687cd3d721c22264cd1172fbe1188/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/5060.png" tvg-name="5060",Ратник
+http://st1.astra-uk.ru:81/3e8300edaa456fea39ad49809a3f0016/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/17210.png" tvg-name="17210",Discovery Science
+http://st1.astra-uk.ru:81/12930e1c8606df486616fab8a5a926d6/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/13650.png" tvg-name="13650",Investigation Discovery
+http://st1.astra-uk.ru:81/655b37b16aa413ac88b58ada07b0046e/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/12855.png" tvg-name="12855",History
+http://st1.astra-uk.ru:81/40fe05c53b00cf6b8f2a412eb8a8876f/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/12857.png" tvg-name="12857",History HD
+http://st1.astra-uk.ru:81/1965a48764277011362f89a7d4f5bbb7/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/None.png" tvg-name="None",Телепутешествия
+http://st1.astra-uk.ru:81/e63b1034a6b3624b990f85d3d0286cae/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/17710.png" tvg-name="17710",Travel Channel
+http://st1.astra-uk.ru:81/810309950bd28a89ef669ee7373df591/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/17712.png" tvg-name="17712",Travel Channel HD Europe
+http://st1.astra-uk.ru:81/a6f3fc87f82192162fb3d5e87c0ce224/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/17715.png" tvg-name="17715",Travel+Adventure
+http://st1.astra-uk.ru:81/31d091909bce6ad26d2c1a503af4667c/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/18490.png" tvg-name="18490",Viasat History
+http://st1.astra-uk.ru:81/0b746850344bc23f8bd8ec3a7433d8e4/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/18510.png" tvg-name="18510",Viasat Nature
+http://st1.astra-uk.ru:81/3957cad677164e32a583243ca2e9e30b/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/18510.png" tvg-name="18510",Viasat Nature HD
+http://st1.astra-uk.ru:81/28ceb5e8589d5d31451307d354c2dba2/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/310.png" tvg-name="310",365 Дней ТВ
+http://st1.astra-uk.ru:81/9833f35da6cf69939fba03e1c77ab89d/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/15610.png" tvg-name="15610",OCEAN-TV
+http://st1.astra-uk.ru:81/7fb7069482850bb5008c667d3f38fa0c/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/16920.png" tvg-name="16920",RTG TV
+http://st1.astra-uk.ru:81/420584e28f69d8bb3df09c6ba5d8ab1c/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/16920.png" tvg-name="16920",RTG HD
+http://st1.astra-uk.ru:81/35bc4d45e13d7f6b87b585cdde885a89/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/19650.png" tvg-name="19650",Zooпарк
+http://st1.astra-uk.ru:81/1026b0915b8730acf92afd98b5543108/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/1880.png" tvg-name="1880",Доктор
+http://st1.astra-uk.ru:81/2aa260f5888ff01a2173ac856a601970/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/2750.png" tvg-name="2750",История
+http://st1.astra-uk.ru:81/d4cb383ff3e17a4c21b7d595b3db52e8/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/3110.png" tvg-name="3110",Кто есть кто
+http://st1.astra-uk.ru:81/ee8f601cd12fbd60ddf49a071e53d3cb/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/3651.png" tvg-name="3651",МИР PREMIUM
+http://st1.astra-uk.ru:81/8ca4f66658ff5d4f8a992c323e02c622/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/3690.png" tvg-name="3690",Моя Планета
+http://st1.astra-uk.ru:81/adb07838d0308512a93faca97bae7309/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/3850.png" tvg-name="3850",Наука 2.0
+http://st1.astra-uk.ru:81/929a660a47894c38a96b3d67d80150c9/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/4100.png" tvg-name="4100",НТВ Право
+http://st1.astra-uk.ru:81/d86d811d284b57b9e10b7d230a23be24/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/4635.png" tvg-name="4635",Первый Вегетарианский
+http://st1.astra-uk.ru:81/a98bfe1d53146f5ca7a4bd1aa5f836f7/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/4790.png" tvg-name="4790",Первый образовательный
+http://st1.astra-uk.ru:81/c1d5b43565b459becff7de216c55c879/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/4880.png" tvg-name="4880",Просвещение
+http://st1.astra-uk.ru:81/4c714b925a6dcf0a1de9d377e5275f39/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/5470.png" tvg-name="5470",Совершенно секретно
+http://st1.astra-uk.ru:81/4591c566c61c7e25ed8cfe204154577e/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://update.vermax.com/logo56/None.png" tvg-name="None",Нано ТВ
+http://st1.astra-uk.ru:81/ec879375b5ba0a5f84d8b364b1a7d9a6/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/5830.png" tvg-name="5830",ТВ3
+http://st1.astra-uk.ru:81/ec6a7c8d6ca0b28590c38602cfc0e99d/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/17770.png" tvg-name="17770",TV 1000
+http://st1.astra-uk.ru:81/d9a7a9f709ca8530b1547e7cead8f1dd/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/17790.png" tvg-name="17790",TV 1000 Action
+http://st1.astra-uk.ru:81/98eef914c03e80b0e49807a177415ffc/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/17810.png" tvg-name="17810",TV 1000 Русское Кино
+http://st1.astra-uk.ru:81/4bad64e7a245802f7b36d7a6d885aac3/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/17795.png" tvg-name="17795",VIP Comedy
+http://st1.astra-uk.ru:81/02e12402a06c27f66a9a083799f21d0d/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/17800.png" tvg-name="17800",VIP Megahit
+http://st1.astra-uk.ru:81/f080859bfedd73a935eb37865f3d6086/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/17805.png" tvg-name="17805",VIP Premiere
+http://st1.astra-uk.ru:81/8bb468f1962686f6f2f32317923bc883/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/3070.png" tvg-name="3070",Кинокомедия
+http://st1.astra-uk.ru:81/b532849f061597e175810f7a206003e6/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/2990.png" tvg-name="2990",Киномикс
+http://st1.astra-uk.ru:81/4e31cb975e4e6f9bbe27c1aab2402ebf/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/3722.png" tvg-name="3722",Мужское кино
+http://st1.astra-uk.ru:81/78739d23a671640e943c8fd484686f55/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/3830.png" tvg-name="3830",Наше новое кино
+http://st1.astra-uk.ru:81/2c3ae8d5ff31d21cb37109d8cc1b5c21/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/4850.png" tvg-name="4850",Кинопремьера HD
+http://st1.astra-uk.ru:81/8335ed4599bdb1bddf4bfd7ea8f8b401/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/None.png" tvg-name="2997",Ultra Cinema 4K
+http://st1.astra-uk.ru:81/53bdeed831c5022ab2ddb8985878b56e/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/3810.png" tvg-name="3810",Родное кино
+http://st1.astra-uk.ru:81/a4a6d63fa53181442acd1ae8bb277980/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/2880.png" tvg-name="2880",Киносвидание
+http://st1.astra-uk.ru:81/543288f92b88aa590447b2d76425552c/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/12820.png" tvg-name="12820",Киносемья
+http://st1.astra-uk.ru:81/2fbefac710a67d4bcebb3810f6702a83/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/3710.png" tvg-name="3710",Киносерия
+http://st1.astra-uk.ru:81/3300cbc9af590772bae4cbaa47a03a68/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/2970.png" tvg-name="2970",Кинохит
+http://st1.astra-uk.ru:81/fd3504e71b0da4b572c6942d915a1f5d/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/None.png" tvg-name="None",Киноужас
+http://st1.astra-uk.ru:81/ed478bcc209efa76884aa03e6eb2e089/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/10150.png" tvg-name="10150",Sony Sci-Fi
+http://st1.astra-uk.ru:81/4a5d4b8543f34cadc7eb9ea8fcbf88a0/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/17230.png" tvg-name="17230",Sony Channel Russia
+http://st1.astra-uk.ru:81/5c7fde5aefd10ef596744fd56685005b/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/17260.png" tvg-name="17260",Sony Turbo
+http://st1.astra-uk.ru:81/cc719f0f30037279d03bf2fd542a8088/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/10102.png" tvg-name="10102",Amedia Hit
+http://st1.astra-uk.ru:81/0eb5fb21bfa6734a7347087a6fb20fd4/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/10104.png" tvg-name="10104",Amedia Premium
+http://st1.astra-uk.ru:81/d1ef78458e2a8129f4c34a9dd9375843/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/10105.png" tvg-name="10105",Amedia Premium HD
+http://st1.astra-uk.ru:81/22773eeb20de8c8bdf0fd5580190356b/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/10100.png" tvg-name="10100",A1
+http://st1.astra-uk.ru:81/763950971c8c6d8df8a87a1e752799a9/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/10095.png" tvg-name="10095",A2
+http://st1.astra-uk.ru:81/1597a5a9948014489de663c8fb4438db/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/3970.png" tvg-name="3970",Настоящее Страшное ТВ
+http://st1.astra-uk.ru:81/4fb343d458d759036f784b814509c173/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/2995.png" tvg-name="2995",Кино ТВ
+http://st1.astra-uk.ru:81/4a4465277e04b28e57d10a290097d5d6/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/2996.png" tvg-name="2995",Кино ТВ HD
+http://st1.astra-uk.ru:81/382f6b6cd29ae2b67e845604fec90d9e/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/5320.png" tvg-name="5320",Русский Бестселлер
+http://st1.astra-uk.ru:81/cd59211874cc4acb0dbae03a7f5b5fbe/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/5330.png" tvg-name="5330",Русский Иллюзион
+http://st1.astra-uk.ru:81/bdeaad976cca377171dccc50702c37e1/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/5340.png" tvg-name="5340",Русский Роман
+http://st1.astra-uk.ru:81/ca696d582f4f88493181e81e51a50960/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/12075.png" tvg-name="12075",Fox
+http://st1.astra-uk.ru:81/475b45b6b3531765210a51ec138af816/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/12075.png" tvg-name="12075",Fox HD
+http://st1.astra-uk.ru:81/c641ce168432ef9b0642e5465324c4fe/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/12095.png" tvg-name="12095",Fox Life
+http://st1.astra-uk.ru:81/482e067470b9b50cc306fc4cada1b0a3/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/12095.png" tvg-name="12095",Fox Life HD
+http://st1.astra-uk.ru:81/446f87447d1a5feb9170f3e522ef1e33/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/11240.png" tvg-name="11240",Detektiv.tv
+http://st1.astra-uk.ru:81/3e25149131029a470bbead46d1e81aa0/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/16005.png" tvg-name="16005",Paramount Channel
+http://st1.astra-uk.ru:81/955b1a7c3b071d81f458e4d8914df9e1/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/16000.png" tvg-name="16000",Paramount Comedy
+http://st1.astra-uk.ru:81/f2bb83588a99a3902021c7e4f455652f/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/14935.png" tvg-name="14935",Hollywood HD
+http://st1.astra-uk.ru:81/a471ae87fe4b321577237452a7f8cf50/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/1940.png" tvg-name="1940",Дом Кино
+http://st1.astra-uk.ru:81/7bfe4cf6278ff80748c9d021cf7144d8/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/1942.png" tvg-name="1942",Дом Кино Премиум HD
+http://st1.astra-uk.ru:81/65cfd2731bd5583d7ad92e31fc5d8769/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/4105.png" tvg-name="4105",НТВ Сериал
+http://st1.astra-uk.ru:81/7ac3681e78eeaab31472c6bf3da3db49/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/4108.png" tvg-name="4108",НТВ ХИТ
+http://st1.astra-uk.ru:81/6824472c73e96ffcfbc35641245b9dcf/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/17263.png" tvg-name="17263",Spike
+http://st1.astra-uk.ru:81/4e7b2b73e1f43bb2d8d0bb4405d862e6/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/19630.png" tvg-name="19630",Zee TV
+http://st1.astra-uk.ru:81/29cd7631af2bc372546584478ce43acf/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/10093.png" tvg-name="10093",Hollywood
+http://st1.astra-uk.ru:81/669f0f295de83119a18bfe299a96dbdb/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/1955.png" tvg-name="1955",Дорама
+http://st1.astra-uk.ru:81/8edf6664e473c971571ee3cdd84bcbdb/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/2050.png" tvg-name="2050",Еврокино
+http://st1.astra-uk.ru:81/8db7bfbde580ccc8f16fbd4072ffe7aa/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/10495.png" tvg-name="10495",Bollywood
+http://st1.astra-uk.ru:81/784b2cd8c01e924a111d491c33e65ff5/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/10495.png" tvg-name="10495",Bollywood HD
+http://st1.astra-uk.ru:81/bbe710524ff563d5a62a3ab4f8a5b757/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/2650.png" tvg-name="2650",Индия ТВ
+http://st1.astra-uk.ru:81/6b7cd444c664376274dbe167e57c2724/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/5740.png" tvg-name="5740",Супер
+http://st1.astra-uk.ru:81/7bdab0c0008a0a1b29b79125e157142e/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/7010.png" tvg-name="7010",SHOT TV
+http://st1.astra-uk.ru:81/cd25b2ec1536d3556deb17d7202445b1/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/3065.png" tvg-name="3065",Комедия
+http://st1.astra-uk.ru:81/386ed911efb01c5dcdc9a0f85b7e92c7/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/3360.png" tvg-name="3360",Любимое Кино
+http://st1.astra-uk.ru:81/b09e05f76ebb048b9aaf840054f667b6/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/3655.png" tvg-name="3655",Мир сериала
+http://st1.astra-uk.ru:81/5f8fc76a0eff01698b55718a1fd63fb5/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/5325.png" tvg-name="5325",Русский Детектив
+http://st1.astra-uk.ru:81/af8898730d92ba60aa3f1835e7853533/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/3725.png" tvg-name="3725",Мужской
+http://st1.astra-uk.ru:81/d95b85dfc04b605553e18e0a1567514e/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://update.vermax.com/logo56/2630.png" tvg-name="2630",Иллюзион+
+http://st1.astra-uk.ru:81/8b8fd3cfff699c510117a009cebe97b9/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://update.vermax.com/logo56/3480.png" tvg-name="3480",Матч!
+http://st1.astra-uk.ru:81/8ac790755d5523947fe8d15e73f2fe32/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://update.vermax.com/logo56/3480.png" tvg-name="3480",Матч! HD
+http://st1.astra-uk.ru:81/2493f1faf11e2b1c98018f7a14cfc630/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://update.vermax.com/logo56/5530.png" tvg-name="5530",Матч! Арена
+http://st1.astra-uk.ru:81/c623807f58e3df60c8e6412dadb304bc/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://update.vermax.com/logo56/5535.png" tvg-name="5535",Матч! Арена HD
+http://st1.astra-uk.ru:81/cb1b6a236fbc27e45df66c09468fb4b8/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://update.vermax.com/logo56/1310.png" tvg-name="1310",Матч! Боец
+http://st1.astra-uk.ru:81/b75aeb398df5cbe3ef3e37fb3ad28018/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://update.vermax.com/logo56/5550.png" tvg-name="5550",Матч! Игра
+http://st1.astra-uk.ru:81/3812743275839d876eef972d7e911ba7/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://update.vermax.com/logo56/5550.png" tvg-name="5550",Матч! Игра HD
+http://st1.astra-uk.ru:81/0715417ec4e008677f8793a4aeb982b1/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://update.vermax.com/logo56/5590.png" tvg-name="5590",Матч! Наш спорт
+http://st1.astra-uk.ru:81/a163c248a70cc2f46b9dca5b9ba140f1/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://update.vermax.com/logo56/4010.png" tvg-name="4010",Матч! Премьер
+http://st1.astra-uk.ru:81/b45d5f141a858bbb2283fe163c29a332/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://update.vermax.com/logo56/3855.png" tvg-name="3855",Матч! Премьер HD
+http://st1.astra-uk.ru:81/c6da958fcdea6bc8fb91ae951090fa79/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://update.vermax.com/logo56/4120.png" tvg-name="4120",Матч! Футбол 1
+http://st1.astra-uk.ru:81/4983583e2908e1c7025990aa87954fe6/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://update.vermax.com/logo56/4120.png" tvg-name="4120",Матч! Футбол 1 HD
+http://st1.astra-uk.ru:81/0d33a2ca2c04df0c951867e5166af3c3/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://update.vermax.com/logo56/4050.png" tvg-name="4050",Матч! Футбол 2
+http://st1.astra-uk.ru:81/2b1493ecdc76534e9560442c4c177e16/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://update.vermax.com/logo56/4125.png" tvg-name="4125",Матч! Футбол 2 HD
+http://st1.astra-uk.ru:81/fb7e046b73124ca85597b9615ec6428a/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://update.vermax.com/logo56/4135.png" tvg-name="4135",Матч! Футбол 3
+http://st1.astra-uk.ru:81/9fe847ab23f4333d92bb88f022337476/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://update.vermax.com/logo56/4140.png" tvg-name="4140",Матч! Футбол 3 HD
+http://st1.astra-uk.ru:81/0694ec129a4731422e18aa6f267ec105/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://update.vermax.com/logo56/14700.png" tvg-name="14700",М-1 Глобал
+http://st1.astra-uk.ru:81/e4f22a0bedc49d42fb39b9d3c01099ef/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://update.vermax.com/logo56/11750.png" tvg-name="11750",Eurosport 1
+http://st1.astra-uk.ru:81/84593b1cbb304a035f5c39601070e5bf/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://update.vermax.com/logo56/11790.png" tvg-name="11790",Eurosport 1 HD
+http://st1.astra-uk.ru:81/27d3f771f722037356f28ab60e1eb7db/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://update.vermax.com/logo56/11775.png" tvg-name="11775",Eurosport 2 HD
+http://st1.astra-uk.ru:81/4c0638123e05b9370674f3a7645374ef/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://update.vermax.com/logo56/18495.png" tvg-name="18495",Viasat Golf
+http://st1.astra-uk.ru:81/f937996e0a2a02839d42871d8dfba047/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://update.vermax.com/logo56/18530.png" tvg-name="18530",Viasat Sport
+http://st1.astra-uk.ru:81/a5f30b95d6a98fc198d340778292e200/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://update.vermax.com/logo56/3170.png" tvg-name="3170",КХЛ
+http://st1.astra-uk.ru:81/1e89118d42c76e9d9de510580122b85f/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://update.vermax.com/logo56/3175.png" tvg-name="3175",КХЛ HD
+http://st1.astra-uk.ru:81/d9e765c5b8f65c43507d4dd00b4b1a7b/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://update.vermax.com/logo56/11810.png" tvg-name="11810",Extreme Sports Channel
+http://st1.astra-uk.ru:81/01e00cb59588ec7fb1123eaf32b7eceb/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://update.vermax.com/logo56/1317.png" tvg-name="1317",Бокс ТВ
+http://st1.astra-uk.ru:81/9cbaa7594b1a1af55e54b25426638d99/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://update.vermax.com/logo56/3082.png" tvg-name="3082",Конный Мир HD
+http://st1.astra-uk.ru:81/43e2a2ffaecaa56c9a41b31853cfb9c5/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://update.vermax.com/logo56/6151.png" tvg-name="6151",Точка отрыва
+http://st1.astra-uk.ru:81/9dffdbff93bf56eae7635ed7bf1dfe3c/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://update.vermax.com/logo56/None.png" tvg-name="None",Setanta Sport HD
+http://st1.astra-uk.ru:81/b0b7ec09a80c04b0862f29bfba89af11/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://update.vermax.com/logo56/150.png" tvg-name="150",1HD
+http://st1.astra-uk.ru:81/a1cc7d0aa8e75a7fff82162654645d88/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://update.vermax.com/logo56/3835.png" tvg-name="3835",Наше ТВ
+http://st1.astra-uk.ru:81/995cafbd42192b29f69807894342a68f/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://update.vermax.com/logo56/18450.png" tvg-name="18450",VH1
+http://st1.astra-uk.ru:81/2d41cae6c123e436de4bdd88d1dfd1ea/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://update.vermax.com/logo56/18410.png" tvg-name="18410",VH1 Classic
+http://st1.astra-uk.ru:81/8b5b7c6f9686f2c9453491c57874a45b/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://update.vermax.com/logo56/10510.png" tvg-name="10510",Bridge TV
+http://st1.astra-uk.ru:81/d10f777f8109b21ce3aaf2d10424adb5/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://update.vermax.com/logo56/10511.png" tvg-name="10511",Bridge HD
+http://st1.astra-uk.ru:81/eed2708baff0625bbc843e8282bc832c/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://update.vermax.com/logo56/10513.png" tvg-name="10513",Bridge TV DANCE
+http://st1.astra-uk.ru:81/314a245121b23bcb04a356d96b8f2595/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://update.vermax.com/logo56/17010.png" tvg-name="17010",Bridge TV Русский Хит
+http://st1.astra-uk.ru:81/cc7fefbc8c69a819a7f604433d1d793b/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://update.vermax.com/logo56/14990.png" tvg-name="14990",MTV Dance
+http://st1.astra-uk.ru:81/6f9262f97b83817dccda1cc43d96893a/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://update.vermax.com/logo56/15030.png" tvg-name="15030",MTV Hits
+http://st1.astra-uk.ru:81/b14eb90737e4cef4ad298b63a3f3ba6a/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://update.vermax.com/logo56/14970.png" tvg-name="14970",MTV Live HD
+http://st1.astra-uk.ru:81/55cd23a9f848a759554f41b966d373f3/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://update.vermax.com/logo56/15040.png" tvg-name="15040",MTV Rocks
+http://st1.astra-uk.ru:81/3516046391e5bb2283cdc020b974bfdc/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://update.vermax.com/logo56/15050.png" tvg-name="15050",MTV Russia
+http://st1.astra-uk.ru:81/72fb20d7cba8d4ed1b3133b64b85c935/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://update.vermax.com/logo56/14870.png" tvg-name="14870",MCM Top
+http://st1.astra-uk.ru:81/ef73d087fccccd0ca38e64038af8fce4/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://update.vermax.com/logo56/14890.png" tvg-name="14890",Mezzo
+http://st1.astra-uk.ru:81/c32eab29fbb580a1370a5bc67cee6063/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://update.vermax.com/logo56/14910.png" tvg-name="14910",Mezzo Live HD
+http://st1.astra-uk.ru:81/d0e1614ba9e630d36650b7167b2772c1/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://update.vermax.com/logo56/6810.png" tvg-name="6810",Шансон-ТВ
+http://st1.astra-uk.ru:81/63291b3c479d506aab21e70323db1180/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://update.vermax.com/logo56/11730.png" tvg-name="11730",Европа Плюс ТВ
+http://st1.astra-uk.ru:81/f9cd3df55d2d82ee7cd6761387d6db19/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://update.vermax.com/logo56/17070.png" tvg-name="17070",RU.TV
+http://st1.astra-uk.ru:81/30b61880fde136ce8a548e08b1717626/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://update.vermax.com/logo56/2180.png" tvg-name="2180",ЖАРА
+http://st1.astra-uk.ru:81/a5f10ea150c0f151aac65728b6010176/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://update.vermax.com/logo56/3370.png" tvg-name="3370",Ля-минор ТВ
+http://st1.astra-uk.ru:81/3576cf1a0ca14750fc7c0edf57445ede/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://update.vermax.com/logo56/3770.png" tvg-name="3770",Муз
+http://st1.astra-uk.ru:81/d845698fa76e17b98af8176a65420efe/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://update.vermax.com/logo56/3750.png" tvg-name="3750",Музыка Первого
+http://st1.astra-uk.ru:81/c3cf8febe32962c8e47fe38878831e6f/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://update.vermax.com/logo56/10190.png" tvg-name="10190",ТНТ Music
+http://st1.astra-uk.ru:81/22ba9fface1ae61f4ff94abc134b1d22/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/6130.png" tvg-name="6130",ТНТ
+http://st1.astra-uk.ru:81/d6cf0b358a92e01a7eab2c7685eeae90/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/6147.png" tvg-name="6147",ТНТ HD
+http://st1.astra-uk.ru:81/fdbf4b80c4f7e743b9c28999e3a9da8d/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/5710.png" tvg-name="5710",СТС
+http://st1.astra-uk.ru:81/6fd02120a26d5964be4724f38a2cb202/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/4960.png" tvg-name="4960",Пятница!
+http://st1.astra-uk.ru:81/196104f28f415df5b1129967bf6bbb32/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/5830.png" tvg-name="5830",ТВ3
+http://st1.astra-uk.ru:81/ec6a7c8d6ca0b28590c38602cfc0e99d/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/280.png" tvg-name="280",2x2
+http://st1.astra-uk.ru:81/172433d1e3ad2cb95dde65f22ccb82f6/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/17260.png" tvg-name="17260",Sony Turbo
+http://st1.astra-uk.ru:81/cc719f0f30037279d03bf2fd542a8088/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/12095.png" tvg-name="12095",Fox Life
+http://st1.astra-uk.ru:81/482e067470b9b50cc306fc4cada1b0a3/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/12095.png" tvg-name="12095",Fox Life HD
+http://st1.astra-uk.ru:81/446f87447d1a5feb9170f3e522ef1e33/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/17670.png" tvg-name="17670",TLC
+http://st1.astra-uk.ru:81/89edf28f063ec985a005d134346a5ac5/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/17675.png" tvg-name="17675",TLC HD
+http://st1.astra-uk.ru:81/47bb5b1458de9ccb0df3b01f5938af0a/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/810.png" tvg-name="810",8 канал
+http://st1.astra-uk.ru:81/27770057e3b6300942fbd73acdbf79df/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/10035.png" tvg-name="10035",ACB TV
+http://st1.astra-uk.ru:81/867310cf515884bb869fca7e2cc6ab8f/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/19670.png" tvg-name="19670",CBS Reality
+http://st1.astra-uk.ru:81/ebcaf75fe51e81a7570cabd95e7cb1c5/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/12030.png" tvg-name="12030",Fashion TV
+http://st1.astra-uk.ru:81/f3fee46c9bc004ae4e4221bf84ed857c/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/12060.png" tvg-name="12060",Fine Living
+http://st1.astra-uk.ru:81/0b7e27bcaaf44e457f0cdc6701898c05/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/12065.png" tvg-name="12065",Food Network
+http://st1.astra-uk.ru:81/57a13c5966b546e49f054159b8c6e82a/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/18470.png" tvg-name="18470",Viasat Explore
+http://st1.astra-uk.ru:81/c7bf726ae2505bbf3a6e1561a19182d0/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/18830.png" tvg-name="18830",World Fashion Channel Russia
+http://st1.astra-uk.ru:81/0656c0531a486886bd1ef1e14a9e5e70/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/1920.png" tvg-name="1920",Домашний
+http://st1.astra-uk.ru:81/e41b259093882dee51c9540fa3c5e7ba/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/2250.png" tvg-name="2250",Живи!
+http://st1.astra-uk.ru:81/e3169b621f0425957283ece28505b4ac/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/2840.png" tvg-name="2840",КВН ТВ
+http://st1.astra-uk.ru:81/a036ad585190f1a114eab06305926c4a/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/3150.png" tvg-name="3150",Кухня ТВ
+http://st1.astra-uk.ru:81/e1a09d08b00badf71900742adf8e232e/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/3930.png" tvg-name="3930",Ностальгия
+http://st1.astra-uk.ru:81/96b50216f44b32428e37ced4ba57614e/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/5410.png" tvg-name="5410",Сарафан
+http://st1.astra-uk.ru:81/e4eb5830bf416d1b49e2996a7868d14d/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/5410.png" tvg-name="5410",СТС Love
+http://st1.astra-uk.ru:81/dc8c9f8d580ce96cd5658a06ffc15b40/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/5990.png" tvg-name="5990",Телекафе
+http://st1.astra-uk.ru:81/c31265024a1a8939d5d71766fbdc40d2/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/3060.png" tvg-name="3060",ТНТ 4
+http://st1.astra-uk.ru:81/9770bcf0368d3b14d77e05bc5231636b/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/6310.png" tvg-name="6310",Усадьба-ТВ
+http://st1.astra-uk.ru:81/0a0265d03dc4438c6af8b5297c77d72f/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/17710.png" tvg-name="17710",Travel Channel
+http://st1.astra-uk.ru:81/810309950bd28a89ef669ee7373df591/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/17712.png" tvg-name="17712",Travel Channel HD Europe
+http://st1.astra-uk.ru:81/a6f3fc87f82192162fb3d5e87c0ce224/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/17715.png" tvg-name="17715",Travel+Adventure
+http://st1.astra-uk.ru:81/31d091909bce6ad26d2c1a503af4667c/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/19650.png" tvg-name="19650",Zooпарк
+http://st1.astra-uk.ru:81/1026b0915b8730acf92afd98b5543108/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/4635.png" tvg-name="4635",Первый Вегетарианский
+http://st1.astra-uk.ru:81/a98bfe1d53146f5ca7a4bd1aa5f836f7/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/4867.png" tvg-name="4867",Продвижение
+http://st1.astra-uk.ru:81/857878a4c2d6d328a4ffb87ade9313e1/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/310.png" tvg-name="310",Телеканал 360 HD
+http://st1.astra-uk.ru:81/c5ee1d1348ffcfa7c1d684931bf1446c/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/10847.png" tvg-name="10847",CCTV4
+http://st1.astra-uk.ru:81/65ed924153b0c368a727be154c4baeee/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://update.vermax.com/logo56/5970.png" tvg-name="5970",Дамский клуб
+http://st1.astra-uk.ru:81/57a93d69c224c94a8e1bbf72bd7306de/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/4705.png" tvg-name="4705",Первый HD
+http://st1.astra-uk.ru:81/5c5817bdb4c149e2a52473a954cdfbfe/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/5145.png" tvg-name="5145",Россия 1 HD
+http://st1.astra-uk.ru:81/6f4b6a54268e3d94ecbc5369ae75dca3/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/6147.png" tvg-name="6147",ТНТ HD
+http://st1.astra-uk.ru:81/fdbf4b80c4f7e743b9c28999e3a9da8d/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/150.png" tvg-name="150",1HD
+http://st1.astra-uk.ru:81/a1cc7d0aa8e75a7fff82162654645d88/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/3480.png" tvg-name="3480",Матч! HD
+http://st1.astra-uk.ru:81/2493f1faf11e2b1c98018f7a14cfc630/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/5535.png" tvg-name="5535",Матч! Арена HD
+http://st1.astra-uk.ru:81/cb1b6a236fbc27e45df66c09468fb4b8/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/5550.png" tvg-name="5550",Матч! Игра HD
+http://st1.astra-uk.ru:81/0715417ec4e008677f8793a4aeb982b1/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/3855.png" tvg-name="3855",Матч! Премьер HD
+http://st1.astra-uk.ru:81/c6da958fcdea6bc8fb91ae951090fa79/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/4120.png" tvg-name="4120",Матч! Футбол 1 HD
+http://st1.astra-uk.ru:81/0d33a2ca2c04df0c951867e5166af3c3/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/4125.png" tvg-name="4125",Матч! Футбол 2 HD
+http://st1.astra-uk.ru:81/fb7e046b73124ca85597b9615ec6428a/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/4140.png" tvg-name="4140",Матч! Футбол 3 HD
+http://st1.astra-uk.ru:81/0694ec129a4731422e18aa6f267ec105/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/14700.png" tvg-name="14700",М-1 Глобал
+http://st1.astra-uk.ru:81/e4f22a0bedc49d42fb39b9d3c01099ef/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/11790.png" tvg-name="11790",Eurosport 1 HD
+http://st1.astra-uk.ru:81/27d3f771f722037356f28ab60e1eb7db/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/11775.png" tvg-name="11775",Eurosport 2 HD
+http://st1.astra-uk.ru:81/4c0638123e05b9370674f3a7645374ef/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/3175.png" tvg-name="3175",КХЛ HD
+http://st1.astra-uk.ru:81/d9e765c5b8f65c43507d4dd00b4b1a7b/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/3082.png" tvg-name="3082",Конный Мир HD
+http://st1.astra-uk.ru:81/43e2a2ffaecaa56c9a41b31853cfb9c5/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/6100.png" tvg-name="6100",Тлум HD
+http://st1.astra-uk.ru:81/e3d6c7be23fb8e19a4a3fec350648f87/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/15335.png" tvg-name="15335",Nickelodeon HD
+http://st1.astra-uk.ru:81/3dd6a5a5d4ffb99f38933c41ad237a1b/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/4850.png" tvg-name="4850",Кинопремьера HD
+http://st1.astra-uk.ru:81/8335ed4599bdb1bddf4bfd7ea8f8b401/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/None.png" tvg-name="2997",Ultra Cinema 4K
+http://st1.astra-uk.ru:81/53bdeed831c5022ab2ddb8985878b56e/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/10105.png" tvg-name="10105",Amedia Premium HD
+http://st1.astra-uk.ru:81/22773eeb20de8c8bdf0fd5580190356b/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/12075.png" tvg-name="12075",Fox HD
+http://st1.astra-uk.ru:81/c641ce168432ef9b0642e5465324c4fe/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/12095.png" tvg-name="12095",Fox Life HD
+http://st1.astra-uk.ru:81/446f87447d1a5feb9170f3e522ef1e33/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/14935.png" tvg-name="14935",Hollywood HD
+http://st1.astra-uk.ru:81/a471ae87fe4b321577237452a7f8cf50/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/1942.png" tvg-name="1942",Дом Кино Премиум HD
+http://st1.astra-uk.ru:81/65cfd2731bd5583d7ad92e31fc5d8769/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/10495.png" tvg-name="10495",Bollywood HD
+http://st1.astra-uk.ru:81/bbe710524ff563d5a62a3ab4f8a5b757/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/17675.png" tvg-name="17675",TLC HD
+http://st1.astra-uk.ru:81/47bb5b1458de9ccb0df3b01f5938af0a/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/11270.png" tvg-name="11270",Discovery HD
+http://st1.astra-uk.ru:81/46bd97b8e0ee75a330ad9b5f910be471/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/15230.png" tvg-name="15230",National Geographic HD
+http://st1.astra-uk.ru:81/706bc717b31922713648f92bf2151d40/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/15270.png" tvg-name="15270",Nat Geo Wild HD
+http://st1.astra-uk.ru:81/f4efe20a7160869747c778a50872c9fe/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/17712.png" tvg-name="17712",Travel Channel HD Europe
+http://st1.astra-uk.ru:81/a6f3fc87f82192162fb3d5e87c0ce224/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/None.png" tvg-name="None",Setanta Sport HD
+http://st1.astra-uk.ru:81/b0b7ec09a80c04b0862f29bfba89af11/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/14970.png" tvg-name="14970",MTV Live HD
+http://st1.astra-uk.ru:81/55cd23a9f848a759554f41b966d373f3/playlist.m3u8
+#EXTINF:-1 group-title="HD" tvg-logo="http://update.vermax.com/logo56/2996.png" tvg-name="2996",Кино ТВ HD
+http://st1.astra-uk.ru:81/382f6b6cd29ae2b67e845604fec90d9e/playlist.m3u8
+#EXTINF:-1 group-title="Увлечения" tvg-logo="http://update.vermax.com/logo56/15660.png" tvg-name="15660",Outdoor Channel
+http://st1.astra-uk.ru:81/0635802ae96f0fe30d71ca1a256b3af3/playlist.m3u8
+#EXTINF:-1 group-title="Увлечения" tvg-logo="http://update.vermax.com/logo56/1035.png" tvg-name="1035",Авто 24
+http://st1.astra-uk.ru:81/763cd923823f71f5512a1c7c302fb86b/playlist.m3u8
+#EXTINF:-1 group-title="Увлечения" tvg-logo="http://update.vermax.com/logo56/1030.png" tvg-name="1030",Авто Плюс
+http://st1.astra-uk.ru:81/45b46ea77a890502df74ad55d82b8e4a/playlist.m3u8
+#EXTINF:-1 group-title="Увлечения" tvg-logo="http://update.vermax.com/logo56/1835.png" tvg-name="1835",Диалоги о рыбалке
+http://st1.astra-uk.ru:81/dde3f773a6037be50770e5476ac36bdd/playlist.m3u8
+#EXTINF:-1 group-title="Увлечения" tvg-logo="http://update.vermax.com/logo56/2410.png" tvg-name="2410",Загородная жизнь
+http://st1.astra-uk.ru:81/c4fb745dd4a347220e4185af0e11eaac/playlist.m3u8
+#EXTINF:-1 group-title="Увлечения" tvg-logo="http://update.vermax.com/logo56/3150.png" tvg-name="3150",Кухня ТВ
+http://st1.astra-uk.ru:81/e1a09d08b00badf71900742adf8e232e/playlist.m3u8
+#EXTINF:-1 group-title="Увлечения" tvg-logo="http://update.vermax.com/logo56/5990.png" tvg-name="5990",Телекафе
+http://st1.astra-uk.ru:81/c31265024a1a8939d5d71766fbdc40d2/playlist.m3u8
+#EXTINF:-1 group-title="Увлечения" tvg-logo="http://update.vermax.com/logo56/6310.png" tvg-name="6310",Усадьба-ТВ
+http://st1.astra-uk.ru:81/0a0265d03dc4438c6af8b5297c77d72f/playlist.m3u8
+#EXTINF:-1 group-title="Увлечения" tvg-logo="http://update.vermax.com/logo56/1305.png" tvg-name="1305",БОБЁР
+http://st1.astra-uk.ru:81/800df30cd56b49f8539115b4c202f266/playlist.m3u8
+#EXTINF:-1 group-title="Увлечения" tvg-logo="http://update.vermax.com/logo56/1840.png" tvg-name="1840",Дикий
+http://st1.astra-uk.ru:81/7b16ef317625b7811b7a73ae2e75ee4d/playlist.m3u8
+#EXTINF:-1 group-title="Увлечения" tvg-logo="http://update.vermax.com/logo56/1900.png" tvg-name="1900",Домашние животные
+http://st1.astra-uk.ru:81/eb52590b081ba51db901f5250df9482f/playlist.m3u8
+#EXTINF:-1 group-title="Увлечения" tvg-logo="http://update.vermax.com/logo56/3675.png" tvg-name="3675",Морской
+http://st1.astra-uk.ru:81/ade1fb46ed2bc5bdc9cc17df3b888014/playlist.m3u8
+#EXTINF:-1 group-title="Увлечения" tvg-logo="http://update.vermax.com/logo56/4107.png" tvg-name="4107",НТВ Стиль
+http://st1.astra-uk.ru:81/2b47786eb387fa1d998dc02a5508a826/playlist.m3u8
+#EXTINF:-1 group-title="Увлечения" tvg-logo="http://update.vermax.com/logo56/4530.png" tvg-name="4530",Охота и Рыбалка
+http://st1.astra-uk.ru:81/174e0c91bd80b24e978cebd4a1ebc465/playlist.m3u8
+#EXTINF:-1 group-title="Увлечения" tvg-logo="http://update.vermax.com/logo56/3725.png" tvg-name="3725",Мужской
+http://st1.astra-uk.ru:81/d95b85dfc04b605553e18e0a1567514e/playlist.m3u8
+#EXTINF:-1 group-title="Увлечения" tvg-logo="http://update.vermax.com/logo56/4552.png" tvg-name="4552",Охотник и Рыболов HD
+http://st1.astra-uk.ru:81/1df33918c900d9c68957ce8a5e584d69/playlist.m3u8
+#EXTINF:-1 group-title="Разное" tvg-logo="http://update.vermax.com/logo56/17240.png" tvg-name="17240",Shop&Show
+http://st1.astra-uk.ru:81/fb769db0be2eafd50f6aff452a58d5fd/playlist.m3u8
+#EXTINF:-1 group-title="Разное" tvg-logo="http://update.vermax.com/logo56/5665.png" tvg-name="5665",Shop24
+http://st1.astra-uk.ru:81/e0e78f3580d543a99314760b20469cd5/playlist.m3u8
+#EXTINF:-1 group-title="Разное" tvg-logo="http://update.vermax.com/logo56/17245.png" tvg-name="17245",Shopping Live
+http://st1.astra-uk.ru:81/42df2a1b03f0bfd02973a0a23683e84b/playlist.m3u8
+#EXTINF:-1 group-title="Разное" tvg-logo="http://update.vermax.com/logo56/4730.png" tvg-name="4730",Первый МЕТЕО
+http://st1.astra-uk.ru:81/0b6dfc1e57b717f99dee3b9893581b92/playlist.m3u8
+#EXTINF:-1 group-title="Разное" tvg-logo="http://update.vermax.com/logo56/5510.png" tvg-name="5510",СПАС
+http://st1.astra-uk.ru:81/9100eaff461cda8e433b3ccad7af7a5e/playlist.m3u8
+#EXTINF:-1 group-title="Разное" tvg-logo="http://update.vermax.com/logo56/5490.png" tvg-name="5490",Союз
+http://st1.astra-uk.ru:81/51527c77f60da7755e34fcb3f7574e64/playlist.m3u8
+#EXTINF:-1 group-title="Разное" tvg-logo="http://update.vermax.com/logo56/7205.png" tvg-name="7205",Ювелирочка
+http://st1.astra-uk.ru:81/7c42f51ac3054c06dad9f4c3decf2faf/playlist.m3u8
